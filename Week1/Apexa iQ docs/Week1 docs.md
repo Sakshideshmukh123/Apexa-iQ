@@ -413,9 +413,9 @@ Example: Before adopting new software, a company checks its security features, c
 
 # Dashboard :
 
-![Apexa Dashboard.jpg](Week1%20277436c057da80e08a04e02be2e8d824/Apexa_Dashboard.jpg)
+![Apexa Dashboard.jpg](Week1%20277436c057da80e08a04e02be2e8d824/images/Apexa_Dashboard.jpg)
 
-![3rdpage dashboard.png](Week1%20277436c057da80e08a04e02be2e8d824/3rdpage_dashboard.png)
+![3rdpage dashboard.png](Week1%20277436c057da80e08a04e02be2e8d824/images/3rdpage_dashboard.png)
 
 ## Terminologies on Dashboard :
 
@@ -437,9 +437,7 @@ Example: Before adopting new software, a company checks its security features, c
 
 # Data Flow :
 
-![Data Flow.jpg](Week1%20277436c057da80e08a04e02be2e8d824/Data_Flow.jpg)
-
-[https://github.com/Sakshideshmukh123/Apexa-iQ.git](https://github.com/Sakshideshmukh123/Apexa-iQ.git)
+![Data Flow.jpg](Week1%20277436c057da80e08a04e02be2e8d824/images/Data_Flow.jpg)
 
 **1. Security Tools (Your Network)**
 
