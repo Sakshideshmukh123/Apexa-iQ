@@ -32,6 +32,7 @@ Making sure all IT assets (computers, software, servers, network devices, etc.) 
 - **Industry Standards / Organizations** – Example: ISO 27001, CIS Benchmarks
 - **Company / Internal Policies** – Example: Password rules, allowed software, backup policies
 
+
 - **Obsolescence**
 
 When something becomes old, outdated, or no longer useful because newer or better versions exist.**IT Asset Obsolescence:** When an IT asset (computer, server, software, device) becomes outdated, no longer supported, or cannot meet current business/security needs.
