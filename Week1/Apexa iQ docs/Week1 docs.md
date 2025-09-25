@@ -39,10 +39,10 @@ When something becomes old, outdated, or no longer useful because newer or bette
 
 **Why it matters:**
 
-- Increases security risks
-- Reduces productivity
-- Causes higher maintenance costs
-- Leads to non-compliance
+- *Increases security risks*
+- *Reduces productivity*
+- *Causes higher maintenance costs*
+- *Leads to non-compliance*
 
 - **Vulnerability**
 
@@ -50,13 +50,13 @@ A weak spot in IT systems that can cause security problems.
 
 **Examples in IT:**
 
-- **Software Vulnerability:** Bug in Windows/Linux that hackers can exploit
-- **Hardware Vulnerability:** Flaws in servers or devices
-- **Network Vulnerability:** Open ports, weak passwords, unsecured Wi-Fi
+- *Software Vulnerability:* Bug in Windows/Linux that hackers can exploit
+- *Hardware Vulnerability:* Flaws in servers or devices
+- *Network Vulnerability:* Open ports, weak passwords, unsecured Wi-Fi
 
 - **Cloud Computing**
 
-Using the internet to access storage, servers, software, or databases instead of keeping them on your own computer. **Example:** Google Drive, AWS, Azure.
+Using the internet to access storage, servers, software, or databases instead of keeping them on your own computer. *Example:* Google Drive, AWS, Azure.
 
 - **SaaS (Software as a Service)**
 
@@ -64,10 +64,10 @@ A cloud service where you use software through the internet without installing i
 
 **Examples of SaaS:**
 
-- Gmail
-- Google Docs / Microsoft Office 365
-- Canva
-- Zoom
+- *Gmail*
+- *Google Docs / Microsoft Office 365*
+- *Canva*
+- *Zoom*
 
 ---
 
