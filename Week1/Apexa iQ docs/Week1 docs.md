@@ -31,7 +31,6 @@ Making sure all IT assets (computers, software, servers, network devices, etc.) 
 - **Government / Regulatory Authorities** – Example: GDPR, HIPAA, IT Act
 - **Industry Standards / Organizations** – Example: ISO 27001, CIS Benchmarks
 - **Company / Internal Policies** – Example: Password rules, allowed software, backup policies
-- **Obsolescence**
 
 - **Obsolescence**
 
