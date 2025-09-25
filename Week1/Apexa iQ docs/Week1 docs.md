@@ -2,7 +2,7 @@
 
 Apexa iQ Internship – Week 1 Documentation
 
----
+---   
 
 **Basic terminology to Know Before Learning Apexa iQ**
 
@@ -413,7 +413,7 @@ Example: Before adopting new software, a company checks its security features, c
 
 # Dashboard :
 
-![Apexa Dashboard.jpg](Week1/ApexaiQdocs/images/Apexa_Dashboard.jpg)
+![Apexa Dashboard.jpg](Week1/Apexa%20iQ%20docs/Week1/ApexaiQdocs/images/Apexa_Dashboard.jpg.)    
 
 ![3rdpage dashboard.png](Week1%20277436c057da80e08a04e02be2e8d824/images/3rdpage_dashboard.png)
 
