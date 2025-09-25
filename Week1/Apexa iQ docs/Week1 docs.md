@@ -206,9 +206,9 @@ The **Apexa iQ Score** is a number that shows how healthy and secure an organiza
 
  **Obsolescence** means when something becomes old, outdated, or no longer useful because newer or better versions exist.
 
-5.Compliance :  **Compliance** means following rules, laws, regulations, or company policies that apply to your organization.
+## 5.Compliance :  **Compliance** means following rules, laws, regulations, or company policies that apply to your organization.
 
-6.Maintenance :  **Maintenance** is the process of keeping IT assets—like computers, software, and networks—**up-to-date, secure, and running smoothly**.
+## 6.Maintenance :  **Maintenance** is the process of keeping IT assets—like computers, software, and networks—**up-to-date, secure, and running smoothly**.
 
 ## 7.End of Life, End of Support, End of Maintenance :
 
