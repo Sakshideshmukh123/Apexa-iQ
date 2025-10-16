@@ -1,4 +1,0 @@
-Current balance for account 12345: $1000
-Deposited $500. New balance: $1500
-Withdrew $300. New balance: $1200
-Error: Cannot withdraw $2000. Available balance: $1200

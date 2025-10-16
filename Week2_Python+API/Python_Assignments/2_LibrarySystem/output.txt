@@ -1,0 +1,19 @@
+Book 'The Great Gatsby' added to the library.
+Book 'To Kill a Mockingbird' added to the library.
+Book '1984' added to the library.
+Member Alice Johnson registered.
+Member Bob Smith registered.
+Book 'The Great Gatsby' borrowed by Alice Johnson. Due date: 2025-10-19
+Book 'To Kill a Mockingbird' borrowed by Bob Smith. Due date: 2025-10-19
+Available Books:
+[B003] 1984 by George Orwell - Available
+
+Borrowed Books:
+[B001] The Great Gatsby by F. Scott Fitzgerald - Borrowed by Alice Johnson (Due: 2025-10-19)
+[B002] To Kill a Mockingbird by Harper Lee - Borrowed by Bob Smith (Due: 2025-10-19)
+
+Book 'The Great Gatsby' returned successfully.
+Available Books:
+[B001] The Great Gatsby by F. Scott Fitzgerald - Available
+[B003] 1984 by George Orwell - Available
+

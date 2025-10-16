@@ -1,0 +1,23 @@
+
+Getting all posts...
+Total posts fetched: 100
+ID: 1 | Title: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+ID: 2 | Title: qui est esse
+ID: 3 | Title: ea molestias quasi exercitationem repellat qui ipsa sit aut
+
+Getting post with ID 3...
+ID: 3
+Title: ea molestias quasi exercitationem repellat qui ipsa sit aut
+Body: et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut
+
+Creating a new post...
+New post created successfully!
+ID: 101
+
+Deleting post with ID 101...
+Post deleted successfully (simulated).
+
+ Program completed successfully.
